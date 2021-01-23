@@ -1,0 +1,10 @@
+C:\Users\GeovaneBs\source\repos\RegistroPonto\RegistroPonto\bin\Debug\RegistroPonto.exe.config
+C:\Users\GeovaneBs\source\repos\RegistroPonto\RegistroPonto\bin\Debug\RegistroPonto.exe
+C:\Users\GeovaneBs\source\repos\RegistroPonto\RegistroPonto\bin\Debug\RegistroPonto.pdb
+C:\Users\GeovaneBs\source\repos\RegistroPonto\RegistroPonto\obj\Debug\RegistroPonto.csprojAssemblyReference.cache
+C:\Users\GeovaneBs\source\repos\RegistroPonto\RegistroPonto\obj\Debug\RegistroPonto.Form1.resources
+C:\Users\GeovaneBs\source\repos\RegistroPonto\RegistroPonto\obj\Debug\RegistroPonto.Properties.Resources.resources
+C:\Users\GeovaneBs\source\repos\RegistroPonto\RegistroPonto\obj\Debug\RegistroPonto.csproj.GenerateResource.cache
+C:\Users\GeovaneBs\source\repos\RegistroPonto\RegistroPonto\obj\Debug\RegistroPonto.csproj.CoreCompileInputs.cache
+C:\Users\GeovaneBs\source\repos\RegistroPonto\RegistroPonto\obj\Debug\RegistroPonto.exe
+C:\Users\GeovaneBs\source\repos\RegistroPonto\RegistroPonto\obj\Debug\RegistroPonto.pdb
